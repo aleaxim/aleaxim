@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- � I’m currently learning everything.
 <!--
 **aleaxim/aleaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- If you're using "main" as default branch -->
-
-![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
 
 <details>
   <summary>Metrics</summary>
