@@ -32,5 +32,5 @@ jobs:
           plugin_topics_mode: mastered
         
           config_order: base.header, introduction, languages, topics, isocalendar
-          output_action: pull-request
+        #  output_action: pull-request
 
