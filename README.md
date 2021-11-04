@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   
   ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
   
+  ![Visitor Count](https://profile-counter.glitch.me/aleaxim/count.svg)
+  
 </details>
