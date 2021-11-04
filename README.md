@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 <!-- If you're using "main" as default branch -->
 
-
+![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
 
 <details>
   <summary>Metrics</summary>
+  
   ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
+  
 </details>
