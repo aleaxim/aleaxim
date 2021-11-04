@@ -14,3 +14,18 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+
+# 🙋 Introduction
+
+      - name: 🙋 Introduction (user)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          user: github
+          base: header
+          plugin_introduction: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
