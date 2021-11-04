@@ -1,6 +1,17 @@
 ### Hi there 👋
 
 ⚡ I’m currently learning everything.
+
+<details>
+  <summary>My Stats</summary>
+  
+  ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
+  
+  ![counter](https://enbitn3f4jmv2qb.m.pipedream.net)
+  
+</details>
+
+
 <!--
 **aleaxim/aleaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<details>
-  <summary>Metrics</summary>
-  
-  ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
-  
-  ![counter](https://enbitn3f4jmv2qb.m.pipedream.net)
-  
-</details>
