@@ -31,6 +31,6 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
         
-          config_order: base.header, languages, topics, isocalendar
+          config_order: base.header, introduction, languages, topics, isocalendar
           output_action: pull-request
 
