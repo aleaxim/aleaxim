@@ -4,6 +4,7 @@
 
 <details>
   <summary>My Stats</summary>
+  
   ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
  
   ### Technologies
@@ -24,6 +25,7 @@
   #### Design
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  
   [![wakatime](https://wakatime.com/badge/user/0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b.svg)](https://wakatime.com/@0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b)
   ![counter](https://enbitn3f4jmv2qb.m.pipedream.net)
   
