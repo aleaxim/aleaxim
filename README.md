@@ -4,14 +4,10 @@
 
 <details>
   <summary>My Stats</summary>
-  
   ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
-  
-  ### Language Stats
-  <img src="https://wakatime.com/share/@0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b/777ee1cc-d2d0-43e8-a2cb-0a368a06eebc.svg" height="300px">
-
+ 
   ### Technologies
-
+  
   #### Code
   ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,10 +24,11 @@
   #### Design
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  
+  [![wakatime](https://wakatime.com/badge/user/0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b.svg)](https://wakatime.com/@0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b)
   ![counter](https://enbitn3f4jmv2qb.m.pipedream.net)
   
 </details>
+
 
 
 <!--
@@ -67,4 +64,9 @@ Here are some ideas to get you started:
   #### Tools
   ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
   ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+
+  <details>
+    <summary>WakaTime</summary>
+    <p align="center"><img src="https://wakatime.com/share/@0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b/777ee1cc-d2d0-43e8-a2cb-0a368a06eebc.svg" height="300px"></p>
+  </details>
 -->
