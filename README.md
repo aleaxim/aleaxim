@@ -8,7 +8,7 @@
   ![Metrics](https://github.com/aleaxim/aleaxim/blob/main/metrics.svg)
   
   ### Language Stats
-  <img src="https://wakatime.com/share/@0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b/777ee1cc-d2d0-43e8-a2cb-0a368a06eebc.svg">
+  <img src="https://wakatime.com/share/@0c1ed6f1-fb21-41cd-8f4e-e0a3194c797b/777ee1cc-d2d0-43e8-a2cb-0a368a06eebc.svg" height="300px">
 
   ### Technologies
 
