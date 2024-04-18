@@ -79,15 +79,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 21.2kb of code in 50 edited files across 22 commits over last 8 days</small>
+                <small>estimation from 23.2kb of code in 52 edited files across 26 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.1128176224696" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="238.1128176224696" y="0" width="183.40801277535107" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="421.5208303978207" y="0" width="38.479169602179326" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.65670616520694" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="217.65670616520694" y="0" width="207.16984372316676" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="424.82654988837373" y="0" width="35.173450111626316" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -99,7 +99,7 @@
                                 Blade
                             </div>
                             <small>
-                                <div>51.76%</div>
+                                <div>47.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -110,7 +110,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>8.37%</div>
+                                <div>7.65%</div>
                             </small>
                         </div>
                     </section>
@@ -123,7 +123,7 @@
                                 Hack
                             </div>
                             <small>
-                                <div>39.87%</div>
+                                <div>45.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1176,6 +1176,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
